@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/proyecto/.gitignore</file>
+            <file>file:/var/www/html/proyecto/routes/web.php</file>
+            <file>file:/var/www/html/proyecto/app/Http/Controllers/HomeController.php</file>
+            <file>file:/var/www/html/proyecto/app/Http/Controllers/PagamentController.php</file>
+            <file>file:/var/www/html/proyecto/resources/views/welcome.blade.php</file>
+            <file>file:/var/www/html/proyecto/resources/views/pagaments/index.blade.php</file>
+            <file>file:/var/www/html/proyecto/app/Http/Controllers/CategoriaController.php</file>
+            <file>file:/var/www/html/proyecto/app/Http/Controllers/CursController.php</file>
+            <file>file:/var/www/html/proyecto/app/Models/Pagament.php</file>
+            <file>file:/var/www/html/proyecto/app/Http/Controllers/UsuariController.php</file>
+            <file>file:/var/www/html/proyecto/app/Http/Controllers/CompteController.php</file>
+            <file>file:/var/www/html/proyecto/resources/views/home.blade_1.php</file>
+        </group>
+    </open-files>
+</project-private>
